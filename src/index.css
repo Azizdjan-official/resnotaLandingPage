@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.headerBG
+{
+    background: url(images/bgImage.png);
+    background-position: center;
+}
+.blueFooter
+{
+    background: radial-gradient(15.94% 134.15% at 43.26% 111.07%, #3D568A 0%, #0E2149 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+}
